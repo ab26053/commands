@@ -15,3 +15,6 @@ used to enter into a new file
 5.echo command 
 used to print or display some mesage on terminal 
 syntax: echo message
+6.ls command
+used to list out file and directoriesin a particular directory
+syntax: ls

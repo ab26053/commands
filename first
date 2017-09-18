@@ -10,3 +10,6 @@ used to show system date on terminal
 syntax: date
 4. cat command
 used to enter into a new file
+5. added ls command 
+used to list out the files 
+syntax: ls

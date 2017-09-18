@@ -22,3 +22,6 @@ syntax: ls
 
 7.uname
 use dtoshow thw name
+8. who command 
+tells about username
+syntax: who

@@ -9,7 +9,11 @@ used to show calender of current month
 used to show system date on terminal
 syntax: date
 4. cat command
-used to enter into a new file
+used to enter into a new fileside-branch
+5. added ls command 
+used to list out the files 
+syntax: ls
+
 
 
 5.echo command 
@@ -22,3 +26,6 @@ syntax: ls
 
 7.uname
 use dtoshow thw name
+aster
+8.clear command 
+used to clear all the command that we have used till now in the terminator

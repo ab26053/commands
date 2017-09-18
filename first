@@ -10,3 +10,8 @@ used to show system date on terminal
 syntax: date
 4. cat command
 used to enter into a new file
+
+
+5.echo command 
+used to print or display some mesage on terminal 
+syntax: echo message

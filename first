@@ -27,3 +27,5 @@ syntax: ls
 7.uname
 use dtoshow thw name
 aster
+8.clear command 
+used to clear all the command that we have used till now in the terminator

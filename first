@@ -18,3 +18,7 @@ syntax: echo message
 6.ls command
 used to list out file and directoriesin a particular directory
 syntax: ls
+
+
+7.uname
+use dtoshow thw name
